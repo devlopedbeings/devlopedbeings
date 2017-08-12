@@ -1,0 +1,41 @@
+ftp://192.168.31.114/ftp/git
+
+kdb - a type of open sorce orgination
+
+JBoss Forge
+
+for desktop application - kde
+
+java - gradle/maven
+
+
+C:\Users\ARPIT ROCK\Downloads\PortableGit
+
+https://github.com/RRKKSinha/event.git
+
+----------------------------------------------------------------
+
+git init
+git status
+git add . 
+git commit -m "message"
+----------------------------------------------------------------
+
+gsoc - google summer of code
+
+
+hexcha+
+
+register nick at freenode
+irc - Internet Relay Chat
+
+bit bucket --- http://bitbucket.org/
+-----------------------------------------------------------------
+
+git pull upstring master
+git push origin master
+git checkout -b rohit --> for creating new branch
+git checkout branchname  --> to switch to the branchname branch
+git branch --> to shows all the branches
+git checkout master
+git branch -D branchname --> for deleting the branch
