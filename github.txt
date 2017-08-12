@@ -39,3 +39,5 @@ git checkout branchname  --> to switch to the branchname branch
 git branch --> to shows all the branches
 git checkout master
 git branch -D branchname --> for deleting the branch
+---------------------------------------------------------------
+mbjbhhhbhjb
